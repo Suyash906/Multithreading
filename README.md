@@ -19,6 +19,11 @@
 - When we have long running operation, we need not put the load main method or the main thread. We need to create a separate thread.
 
 
+### Runable v/s Thread class
+
+| Thread class | Runnable Interface |
+
+
 ### Reference
 - https://youtu.be/TCd8QIS-2KI
 
