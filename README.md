@@ -15,6 +15,9 @@
 - Waiting : A thread enters this state when it is temporarily in an inactive state i.e. it is still alive but not eligible to run. It can be in waiting, sleeping or blocked state.
 - Terminated : A runnable thread enters the terminated state when it completes its task or otherwise terminates.
 
+### Need for creating thread
+- When we have long running operation, we need not put the load main method or the main thread. We need to create a separate thread.
+
 
 ### Reference
 - https://youtu.be/TCd8QIS-2KI
