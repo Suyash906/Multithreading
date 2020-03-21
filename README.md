@@ -17,7 +17,5 @@
 
 
 ### Reference
-```
-	https://youtu.be/TCd8QIS-2KI
-```
+- https://youtu.be/TCd8QIS-2KI
 
